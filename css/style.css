@@ -8,7 +8,7 @@
     background-image: url('../img/pattern.png');
     background-color: aqua;
     background-size: contain;
-    background-size: 20;
+    background-size: 20%;
 
 }
 
@@ -25,7 +25,7 @@
         font-size: large;
     }
 
-    .title{
+    .title, .title3{
         color: grey;
     }
     .title2{
@@ -73,6 +73,41 @@
     .row{
         background-color: aqua;
     }
+
+    .sub{
+        margin-top: 1%;
+    }
+
+    .title3{
+        margin-top: 1%;
+    }
+
+    .box1{
+        background-image: url(../img/monitor.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 200px;
+    }
+
+    .info{
+        color: white;
+        padding: 1%;
+      
+    }
+
+    .box2{
+        background-image: url(../img/graph.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 200px;
+        margin-top: 1%;
+    }
+
+
+
+    
+    
+
 
     
 
