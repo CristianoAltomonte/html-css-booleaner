@@ -15,13 +15,14 @@
     .logo {
         width: 20%;
         margin-top: 3%;
-        margin-left: 10px;
+        margin-left: 57px;
         height: 30px;
     }
 
     .container {
         margin-left: 10%;
         margin-top: 1%;
+        font-size: large;
     }
 
     .title{
@@ -39,4 +40,15 @@
     .picture{
         margin-top: 1%;
     }
+
+    .news{
+        margin-top: 1%;
+        
+    }
+
+    .list{
+        margin-top: 1%;
+        margin-left: 1%;
+    }
+
 
