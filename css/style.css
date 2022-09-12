@@ -51,4 +51,30 @@
         margin-left: 1%;
     }
 
+    table {
+        margin-top: 3%;
+        width: 80%;
+        border-spacing: 0px;
+
+    }
+
+    .cell {
+        width: 5%;
+
+    }
+
+    .head-table{
+        background-color: lightblue;
+        color: white;
+        
+        
+    }
+
+    .row{
+        background-color: aqua;
+    }
+
+    
+
+
 
