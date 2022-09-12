@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  header{
+    background-image: url('../img/pattern.png');
+    background-color: aqua;
+    background-size: contain;
+    background-size: 20;
+
+}
+
+    .logo {
+        width: 20%;
+        margin-top: 3%;
+        margin-left: 10px;
+        height: 30px;
+    }
