@@ -18,3 +18,25 @@
         margin-left: 10px;
         height: 30px;
     }
+
+    .container {
+        margin-left: 10%;
+        margin-top: 1%;
+    }
+
+    .title{
+        color: grey;
+    }
+    .title2{
+        color: lightblue;
+    }
+
+    .description {
+        font-size: 90%;
+
+    }
+
+    .picture{
+        margin-top: 1%;
+    }
+
